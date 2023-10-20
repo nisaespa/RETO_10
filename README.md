@@ -22,4 +22,20 @@ bubble_sort(numeros)  # Llamar a la función bubble_sort para ordenar la lista
 print(numeros)  # Imprimir la lista en orden ascendente
 ```
 
++ Para entender mejor el funcionamiento del Bubble Sort:
   
+<div align='center'>
+<figure> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230526103842/1.webp" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+<div align='center'>
+<figure> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230526103914/2.webp" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+<div align='center'>
+<figure> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230526103949/3.webp" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+Tomado de:
+[Link Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
